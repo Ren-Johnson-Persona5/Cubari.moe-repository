@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1760846565",
       "groups": {
-        "test": "https://drive.google.com/drive/folders/1HAe7u0gS1tGuDbVTMlKcrxJ3OfwxaTDk?usp=sharing"
+        "test": [
+          "https://drive.google.com/drive/folders/1HAe7u0gS1tGuDbVTMlKcrxJ3OfwxaTDk?usp=sharing"
+        ]
       }
     }
   }
